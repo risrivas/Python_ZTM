@@ -1,0 +1,26 @@
+###############
+# Introduction
+###############
+- What is a programming language?
+Source code (JavaScript/Python/Java) -> Interpreter or Compiler -> machine language (bits / binary)
+
+- Interpreter: goes line by line and translates each line and then executes it
+- Compiler: takes the whole file and translates whole file in a binary file and then executes it
+
+
+## Python Interpreter
+- can download from:
+https://www.python.org/downloads/
+
+- default interpreter is cpython
+- its written in C language
+https://github.com/python/cpython
+- download contains both Interpreter and VM
+- Cpython interpreter generates bytecode -> then it uses Cpython VM to run this bytecode and execute it
+
+- others: Jython(Java), PyPy(Python), IronPython(.NET)
+
+
+
+
+
