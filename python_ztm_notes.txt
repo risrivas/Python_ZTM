@@ -21,6 +21,29 @@ https://github.com/python/cpython
 - others: Jython(Java), PyPy(Python), IronPython(.NET)
 
 
+## How to run python code
+- terminal / cmd / git bash
+- Code Editors: Sublime, VS code
+- IDEs: Pycharm, Spyder
+- Jupyter notebooks
+
+- better to start with Repl
+https://replit.com/~
+username: srivrish
+
+- first few programs:
+print('Rishi Srivastava')
+
+name = input('What is your name?')
+print(f"heeeelllooo {name}")
+
+- version 3.8 has new walrus operator :=
+
+
+##################
+# Python Basics I
+##################
+
 
 
 
