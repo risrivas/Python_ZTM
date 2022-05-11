@@ -44,6 +44,45 @@ print(f"heeeelllooo {name}")
 # Python Basics I
 ##################
 
+# Fundamental Data Types
+int
+float
+bool
+str
+list
+tuple
+set
+dict
+
+# Classes -> custom types
+
+# Specialized Data Types
+None
+
+
+##########
+# Numbers
+##########
+int
+float
+
+- type(2) will give int
+- type(0.5) will give float
+
+- more details in float
+https://docs.python.org/3/tutorial/floatingpoint.html
+
+- examples
+print(2**4) = 16
+print(5/2) = 2.5
+print(5//2) = 2 - omits the decimal and always returns int
+print(5%2) = 1
+
+
+
+
+
+
 
 
 
